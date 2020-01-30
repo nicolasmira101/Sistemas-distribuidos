@@ -1,0 +1,20 @@
+tuple
+maiz,mango,4,19grados
+todas las cosechas de maiz y mango a esta temperatura creceran mas rapido
+10
+tuple
+tabaco,azucar,mango,5hectareas
+cosechas de azucar, tabaco y mango de 5 hectareas se quemaran por el calor
+30
+filter
+ganancias
+todas las cosechas por encima de 25 hectareas recibiran ayuda del gobierno para ganar mas dinero
+50
+tuple
+limon,naranja,3hectareas,14grados
+los cultivos de naranja y limos en estas zonas y de este tamano se veran quemados por el frio
+30
+filter
+ganancias
+Los campesinos recibiran un incentivo para llevar su mercancia a un mercado campesino
+0
