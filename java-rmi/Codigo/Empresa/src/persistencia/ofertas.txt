@@ -1,0 +1,4 @@
+auxiliar_bodega 2 1 3000000 financiero
+1
+auxiliar_bodega 2 3 3000000 financiero
+1

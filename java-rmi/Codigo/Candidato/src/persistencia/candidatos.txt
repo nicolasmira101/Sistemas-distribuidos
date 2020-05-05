@@ -1,0 +1,31 @@
+luis 1010269517 3 2400000
+ejecutivo_ventas 1 financiero
+coordinador_nomina 1 financiero
+0
+1
+camila 1030690474 2 5000000
+ejecutiva_ventas 2 comercio
+directora_ventas 3 comercio
+0
+1
+nicolas 79638792 5 1200000
+auxiliar_bodega 5 manufactura
+coordinador_logistica 1 manufactura
+0
+1
+laura 52505356 4 3000000
+asistente_mercadeo 1 comercio
+coordinadora_cobros 1 financiero
+directora_mercadeo 2 financiero
+0
+1
+camacho 79638333 5 1200000
+auxiliar_bodega 5 manufactura
+coordinador_logistica 1 manufactura
+0
+1
+paquita 79638444 5 1200000
+auxiliar_bodega 5 manufactura
+coordinador_logistica 1 manufactura
+0
+1
